@@ -7,8 +7,8 @@ Required to help the manager to predict the right group of the new customers.
 
 
 
-Data Description    
-Variable:	Definition    
+.....Data Description......    
+   
 ID:	Unique ID     
 Gender:	Gender of the customer      
 Ever_Married:	Marital status of the customer      
