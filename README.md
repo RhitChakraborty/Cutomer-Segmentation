@@ -20,3 +20,5 @@ Spending_Score:	Spending score of the customer
 Family_Size:	Number of family members for the customer (including the customer)      
 Var_1:	Anonymised Category for the customer      
 Segmentation:	(target) Customer Segment of the customer     
+
+achieved accuracy of 92%
